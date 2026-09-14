@@ -1,4 +1,6 @@
 # LGD-production-quality-report
+<img width="493" height="398" alt="2026-09-14_171234" src="https://github.com/user-attachments/assets/facb1db1-01d2-4ce6-b9fb-faca2f3352ef" />
+<img width="985" height="795" alt="image" src="https://github.com/user-attachments/assets/f5895e4f-bc2d-44c6-9c46-71c6d0633508" />
 
 # 생산·품질 조회 및 3D 설비 보고서 웹 서비스
 
